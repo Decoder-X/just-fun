@@ -13,7 +13,7 @@ $ git clone https://github.com/Decoder-X/just-fun.git
 $ cd just-fun
 $ python Fun.py
 ```
-
+- Now see the Magic
 <h2 align="center">
-:: Thanks For Using ::
+:: Thanks For Use ::
 </h2>
